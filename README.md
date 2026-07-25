@@ -11,7 +11,7 @@ ram_cleaner
   <img src="https://raw.githubusercontent.com/ayoolaowoilu/ram_cleaner_made_witn_rust/main/assets/logo.png" width="120" alt="ram_cleaner logo">
 </p>
 
-<h1 align="center">ram_cleaner</h1>
+<h1 align="center">ram_cleaner with rust</h1>
 
 <p align="center">
   <b>A fast, safe, and lightweight cache cleaning utility written in Rust.</b><br>
