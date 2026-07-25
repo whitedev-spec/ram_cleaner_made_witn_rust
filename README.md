@@ -43,7 +43,7 @@ Features
 
 Scan Modes
 ~~~~~~~~~~
-- Auto Scan -- Detects and scans all user-level cache directories automatically
+- Auto Scan -- Detects and scans all user-level cache directories automatically.
 - Static Scan -- Scans predefined application paths (Chrome, Firefox, Temp, etc.)
 - Dry Run -- Preview what will be deleted without touching any files
 
